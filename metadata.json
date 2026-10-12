@@ -1,0 +1,6 @@
+{
+  "name": "CodeBuilder",
+  "description": "Visual drag-and-drop software studio with custom block creation, app design studio, standalone app runner, interactive debugger, end-to-end encrypted paired device sync, offline PWA capabilities, and biometric voice lock.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
